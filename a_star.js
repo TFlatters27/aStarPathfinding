@@ -1,1 +1,0 @@
-//this project will be an A* path-finding algorithm
